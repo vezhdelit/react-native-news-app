@@ -1,0 +1,72 @@
+[
+  {
+    "id": "1",
+    "title": "The Benefits of Exercise",
+    "text": "Regular exercise has numerous health benefits, including improved cardiovascular health, weight management, and reduced stress. This article explores the positive impact of exercise on your overall well-being.",
+    "imageUrl": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+    "createdAt": 1657572806699
+  },
+  {
+    "id": "2",
+    "title": "The Wonders of Space Exploration. Are we alone?",
+    "text": "Space exploration has led to incredible discoveries about our universe. Learn about the missions, technologies, and scientific findings that have expanded our understanding of space and our place in it.",
+    "imageUrl": "https://images.unsplash.com/photo-1610296669228-602fa827fc1f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1975&q=80",
+    "createdAt": 1657572806699
+  },
+  {
+    "id": "3",
+    "title": "The Art of Cooking",
+    "text": "Cooking is both an art and a science. Explore the world of culinary delights, from mastering basic techniques to creating exquisite dishes that tantalize the taste buds.",
+    "imageUrl": "https://images.unsplash.com/photo-1528712306091-ed0763094c98?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1940&q=80",
+    "createdAt": 1657572806699
+  },
+  {
+    "id": "4",
+    "title": "The History of Ancient Civilizations",
+    "text": "Discover the fascinating history of ancient civilizations, from the Egyptians to the Mayans. Explore their achievements in architecture, art, and culture, and how they shaped the world we know today.",
+    "imageUrl": "https://images.unsplash.com/photo-1461681922067-669418071e5c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+    "createdAt": 1657572806699
+  },
+  {
+    "id": "5",
+    "title": "The World of Renewable Energy",
+    "text": "Renewable energy sources like solar and wind power are shaping the future of sustainable energy. Learn about the environmental benefits and technological advancements in the field of renewable energy.",
+    "imageUrl": "https://images.unsplash.com/photo-1474631245212-32dc3c8310c6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1924&q=80",
+    "createdAt": 1657572806699
+  },
+  {
+    "id": "6",
+    "title": "The Benefits of Exercise",
+    "text": "Regular exercise has numerous health benefits, including improved cardiovascular health, weight management, and reduced stress. This article explores the positive impact of exercise on your overall well-being.",
+    "imageUrl": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+    "createdAt": 1657572806699
+  },
+  {
+    "id": "7",
+    "title": "The Wonders of Space Exploration. Are we alone?",
+    "text": "Space exploration has led to incredible discoveries about our universe. Learn about the missions, technologies, and scientific findings that have expanded our understanding of space and our place in it.",
+    "imageUrl": "https://images.unsplash.com/photo-1610296669228-602fa827fc1f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1975&q=80",
+    "createdAt": 1657572806699
+  },
+  {
+    "id": "8",
+    "title": "The Art of Cooking",
+    "text": "Cooking is both an art and a science. Explore the world of culinary delights, from mastering basic techniques to creating exquisite dishes that tantalize the taste buds.",
+    "imageUrl": "https://images.unsplash.com/photo-1528712306091-ed0763094c98?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1940&q=80",
+    "createdAt": 1657572806699
+  },
+  {
+    "id": "9",
+    "title": "The History of Ancient Civilizations",
+    "text": "Discover the fascinating history of ancient civilizations, from the Egyptians to the Mayans. Explore their achievements in architecture, art, and culture, and how they shaped the world we know today.",
+    "imageUrl": "https://images.unsplash.com/photo-1461681922067-669418071e5c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+    "createdAt": 1657572806699
+  },
+  {
+    "id": "10",
+    "title": "The World of Renewable Energy",
+    "text": "Renewable energy sources like solar and wind power are shaping the future of sustainable energy. Learn about the environmental benefits and technological advancements in the field of renewable energy.",
+    "imageUrl": "https://images.unsplash.com/photo-1474631245212-32dc3c8310c6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1924&q=80",
+    "createdAt": 1657572806699
+  }
+]
